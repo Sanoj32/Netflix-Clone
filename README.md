@@ -1,1 +1,1 @@
-Netflix clone project by Brad on Youtube. Conflict should appear here.
+Netflix clone project by Brad on Youtube. Conflict should appear here. Edited by conflict 1 branch.
