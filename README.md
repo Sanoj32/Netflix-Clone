@@ -1,1 +1,1 @@
-Netflix clone project by Brad on Youtube.
+Netflix clone project by Brad on Youtube. Conflict should appear here.
