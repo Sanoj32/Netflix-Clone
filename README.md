@@ -1,1 +1,1 @@
-Netflix clone project by Brad on YT. We are currently in the newbranch.
+Netflix clone project by Brad on Youtube.
